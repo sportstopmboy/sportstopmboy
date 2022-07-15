@@ -9,6 +9,7 @@
 ╚═════╝░╚═╝░░░░░░╚════╝░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░
 
 
-**Anonymous Awareness** - bit.ly/anonymousawareness                                                        
+**Anonymous Awareness** - https://bit.ly/anonymousawareness                                                        
 **Discord** - spoorts#1167                                                                         
-**Steam** - steamcommunity.com/id/sports_top_mboy                                                   
+**Steam** - https://steamcommunity.com/id/sports_top_mboy   
+**Personal Website** - https://spoorts.000webhostapp.com
